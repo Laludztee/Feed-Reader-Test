@@ -8,7 +8,7 @@
 
 Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass. 
 
-I learnt how to use [Jasmine](htpps://jasmine.github.io) to write a number of tests against a pre-existing application.
+I learnt how to use [Jasmine](https://jasmine.github.io) to write a number of tests against a pre-existing application.
 
 I used Gulp to minify and uglify my css and javascript files. The build tools are npm controlled and the following links are useful in minifying and uglyfying. [npm minify](https://www.npmjs.com/package/gulp-minify), [npm uglify](https://www.npmjs.com/package/gulp-uglify) To optimize images, however, that was not needed for this project, you can use this [npm optimize images](https://www.npmjs.com/package/compress-images)
 
@@ -25,7 +25,7 @@ To run this application, download the zip file or clone this repository to acces
 
 # Demo
 
-To view this app live, [Click here](https://Laludztee.github.io/FeedReaderTest/dist/index.html)
+To view this app live, [Click here](https://Laludztee.github.io/Feed-Reader-Test/dist/index.html)
 
 # References
 
